@@ -17,3 +17,7 @@ In this project a crane VR simulator to load logs into a truck was developed bas
 ![This is an image](Photos/gameplay.png)
 
 ## Results
+[![Demo](https://img.youtube.com/vi/s4jkbh0bWyQ/0.jpg)](https://www.youtube.com/watch?v=s4jkbh0bWyQ)
+
+<br />
+You can find further information here: https://sites.google.com/view/pablovela/software/vr-simulator
