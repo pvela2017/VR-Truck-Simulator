@@ -6,6 +6,14 @@ In this project a crane VR simulator to load logs into a truck was developed bas
 ![This is an image](Photos/global.png)
 
 ## Requirements
+- XR Interaction Toolkit
+- XR Plug-in Management
+- Robotic Industrial Dynamic Arm
+- Treelogs
+- Numena
+- IndustrialSmallTruck
+<br />
+
 ![This is an image](Photos/gameplay.png)
 
 ## Results
